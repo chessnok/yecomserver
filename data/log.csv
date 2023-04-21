@@ -1,0 +1,5 @@
+userid,sessionid,from,timestamp,action,value,category,age,gender,city
+user_10000,593,,2025-01-05T00:00,mainpage,0,,18,М,Москва
+user_10000,593,,2025-01-25T00:20,mainpage,0,,18,М,Москва
+user_10000,593,,2025-01-25T01:20,mainpage,0,,18,М,Москва
+user_10010,593,,2025-01-05T12:00,mainpage,0,,19,М,Москва
